@@ -1,0 +1,22 @@
+{
+  "name": "etherium",
+  "version": "1.0.0",
+  "description": "## What is it? Etherium is a way to do smart contracts.  A contract consists of the following:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHEFFcode/etherium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHEFFcode/etherium/issues"
+  },
+  "homepage": "https://github.com/SHEFFcode/etherium#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
+}
