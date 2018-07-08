@@ -28,6 +28,8 @@ Two ways to execute a function in the blockchain:
 Units of measurement:
 * 1 Ether = 1,000,000,000,000,000,000 Wei
 * There is no fractional Wei
-* 
+
+## Contract Hash 
+0x36204b6Aa7506b08EB0E4F50881126e44aa63c24
 
 
